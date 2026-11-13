@@ -1,0 +1,17 @@
+{
+  "run": "run1",
+  "lanes": [
+    {
+      "id": "lane1",
+      "r1": "lane1-R1.gz",
+      "r2": "lane1-R2.gz",
+      "count": 2
+    },
+    {
+      "id": "lane2",
+      "r1": "lane2-R1.gz",
+      "r2": "lane2-R2.gz",
+      "count": 1
+    }
+  ]
+}
